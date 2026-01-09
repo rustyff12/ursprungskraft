@@ -1,0 +1,109 @@
+:root {
+  --background: #faf9f6;
+  --foreground: #161618;
+  --color-white: #faf9f6;
+  --color-black: #161618;
+  --color-grey: #2e2d2d;
+  --color-main: #b4997b;
+  --color-accent: #9a7d5f;
+  --main-font: "Zalando Sans Expanded", sans-serif;
+}
+.container,
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  background: #9a7d5f;
+  background: linear-gradient(
+    45deg,
+    var(--color-accent) 0%,
+    var(--color-white) 95%
+  );
+  width: 100%;
+  font-family: var(--main-font);
+}
+
+.content {
+  margin-bottom: 5rem;
+  gap: 1rem;
+}
+
+.headerImage {
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+
+.headerImage img {
+  object-fit: contain;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.subHeading {
+  font-size: 28px;
+}
+.email {
+  font-size: 16px;
+}
+.phone {
+  font-size: 16px;
+}
+
+.email,
+.phone {
+  color: var(--color-black);
+}
+
+@media screen and (min-width: 768px) {
+  .headerImage {
+    position: relative;
+    width: 200px;
+    height: 200px;
+  }
+
+  .heading {
+    font-size: 38px;
+  }
+
+  .subHeading {
+    font-size: 32px;
+  }
+
+  .email,
+  .phone {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .headerImage {
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
+  .container {
+    gap: 0.5rem;
+  }
+
+  .heading {
+    font-size: 64px;
+  }
+
+  .subHeading {
+    font-size: 48px;
+    margin-bottom: 1rem;
+  }
+
+  .email,
+  .phone {
+    font-size: 38px;
+  }
+}

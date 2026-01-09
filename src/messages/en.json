@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "brand": "Ursprungskraft",
+    "title": "Ursprungskraft Occupational Therapy",
+    "description": "Ursprungskraft, Occupational therapy practice in Erlangen"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About me",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "comingSoon": {
+    "header": "Coming Soon",
+    "tag": "Site under construction"
+  },
+  "hero": {
+    "title": "Ursprüngskraft",
+    "subtitle": "Private Occupational Therapy Practice",
+    "subtitle-2": "Specializing: Neurology, Pediatrics",
+    "cta": "Get in touch"
+  },
+  "services": {
+    "mainTitle": "Our Services",
+    "neurology": {
+      "title": "Occupational Therapy in Neurological Conditions",
+      "description": "Individual treatment following stroke, multiple sclerosis, Parkinson's disease, traumatic brain injury, peripheral nerve lesions, and other neurological conditions. Focus is on restoring or compensating motor, sensorimotor, and cognitive functions as well as promoting independence and competence in daily activities.",
+      "alt": ""
+    },
+
+    "pediatrics": {
+      "title": "Pediatric Occupational Therapy",
+      "description": "Support and promotion of children and adolescents with developmental delays, sensory processing disorders, AD(H)D, autism spectrum disorder, fine and gross motor difficulties, as well as school and learning challenges. The goal is maximum independence and participation in everyday life, kindergarten, and school.",
+      "alt": ""
+    },
+
+    "cfs": {
+      "title": "ME/CFS Recovery & Pacing Support",
+      "description": "Very gentle, highly individualized, pacing-based occupational therapy support for Myalgic Encephalomyelitis / Chronic Fatigue Syndrome. Emphasis on energy management, realistic daily structure, prevention of Post-Exertional Malaise (PEM), gradual building of activity tolerance, and preservation or rebuilding of quality of life.",
+      "alt": ""
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "name": "Solmaz Aalai",
+    "main": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+    ]
+  }
+}

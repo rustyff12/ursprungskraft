@@ -1,0 +1,11 @@
+.languageSwitch a {
+  color: var(--color-grey);
+  text-decoration: none;
+  font-family: var(--main-font);
+}
+
+a.active {
+  color: black;
+  font-weight: 700;
+  text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "brand": "Ursprungskraft",
+    "title": "Ergotherapiepraxis Ursprungskraft",
+    "description": "Ursprungskraft, Ihre Ergotherapiepraxis in Erlangen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "services": "Leistungen",
+    "contact": "Kontakt"
+  },
+  "comingSoon": {
+    "header": "Kommt bald",
+    "tag": "Website im Aufbau"
+  },
+  "hero": {
+    "title": "Ursprüngskraft",
+    "subtitle": "Privatpraxis für Ergotherapie",
+    "subtitle-2": "Schwerpunkt: Neurologie, Pädiatrie",
+    "cta": "Kontakt aufnehmen"
+  },
+  "services": {
+    "mainTitle": "Unsere Leistungen",
+    "neurology": {
+      "title": "Ergotherapie bei neurologischen Erkrankungen",
+      "description": "Individuelle Behandlung nach Schlaganfall, bei Multipler Sklerose, Morbus Parkinson, Schädel-Hirn-Trauma, peripheren Nervenläsionen und anderen neurologischen Krankheitsbildern. Schwerpunkt liegt auf der Wiederherstellung oder Kompensation motorischer, sensomotorischer und kognitiver Funktionen sowie der Förderung der Alltags- und Handlungskompetenz.",
+      "alt": ""
+    },
+
+    "pediatrics": {
+      "title": "Pädiatrische Ergotherapie",
+      "description": "Förderung und Begleitung von Kindern und Jugendlichen mit Entwicklungsverzögerungen, Wahrnehmungs- und Verarbeitungsstörungen, AD(H)S, Autismus-Spektrum-Störung, Fein- und Grobmotorikproblemen sowie Schul- und Lernschwierigkeiten. Ziel ist die größtmögliche Selbstständigkeit und Teilhabe im Alltag, in Kita und Schule.",
+      "alt": ""
+    },
+
+    "cfs": {
+      "title": "Begleitung und Recovery bei ME/CFS",
+      "description": "Spezialisierte, sehr behutsame und pacing-orientierte ergotherapeutische Unterstützung bei Myalgischer Enzephalomyelitis / Chronischem Fatigue Syndrom. Fokus auf Energiemanagement, realistische Tagesstrukturierung, Vermeidung von Post-Exertional Malaise (PEM), schrittweiser Aufbau von Belastungstoleranz und Erhalt bzw. Wiederaufbau von Lebensqualität.",
+      "alt": ""
+    }
+  },
+  "about": {
+    "title": "Über Mich",
+    "name": "Solmaz Aalai",
+    "main": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+    ]
+  }
+}
