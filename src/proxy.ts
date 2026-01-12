@@ -1,4 +1,3 @@
-// src/proxy.ts
 import createMiddleware from "next-intl/middleware";
 import { routing } from "@/navigation";
 

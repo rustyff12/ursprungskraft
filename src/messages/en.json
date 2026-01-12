@@ -47,5 +47,60 @@
       "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
       "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
     ]
+  },
+  "impressum": {
+    "practice": {
+      "label": "Practice Name",
+      "description": "Ursprungskraft – Occupational Therapy Practice"
+    },
+    "operator": {
+      "label": "Operator / Responsible for Content",
+      "description": "Solmaz Aalai"
+    },
+    "address": {
+      "label": "Address",
+      "description": {
+        "street": "[Street address]",
+        "zipCity": "[Postal code, City]",
+        "country": "Germany"
+      }
+    },
+    "contact": {
+      "label": "Contact",
+      "description": {
+        "phone": "[+49 …]",
+        "email": "[contact@domain.de]"
+      }
+    },
+    "professionalTitle": {
+      "label": "Professional Title",
+      "description": "Occupational Therapist (title awarded in Germany)"
+    },
+    "professionalRegulations": {
+      "label": "Professional Regulations",
+      "description": "Occupational therapy services are provided in accordance with the applicable German professional regulations."
+    },
+    "supervisoryAuthority": {
+      "label": "Supervisory Authority",
+      "description": {
+        "authority": "[Name of the relevant authority, e.g. local Gesundheitsamt]",
+        "city": "[City]"
+      }
+    },
+    "vatId": {
+      "label": "VAT ID",
+      "description": "VAT identification number according to §27a German VAT Act: [Only if applicable]"
+    },
+    "contentResponsibility": {
+      "label": "Responsible for content according to § 18 (2) MStV",
+      "description": {
+        "name": "Solmaz Aalai",
+        "address": "[Same as address above]"
+      }
+    },
+    "disclaimer": {
+      "label": "Disclaimer",
+      "description": "Despite careful control of the content, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content."
+    }
   }
 }

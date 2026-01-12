@@ -1,33 +1,20 @@
-:root {
-  --background: #faf9f6;
-  --foreground: #161618;
-  --color-white: #faf9f6;
-  --color-black: #161618;
-  --color-grey: #2e2d2d;
-  --color-main: #b4997b;
-  --color-accent: #9a7d5f;
-  --main-font: "Zalando Sans Expanded", sans-serif;
-}
-.container,
-.content {
+.section,
+.container {
   flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
-.container {
-  background: #9a7d5f;
-  background: linear-gradient(
-    45deg,
-    var(--color-accent) 0%,
-    var(--color-white) 95%
-  );
+.section {
+  background: #b9cbd9;
+  background: linear-gradient(45deg, #60b2e5 0%, rgba(250, 249, 246, 1) 100%);
   width: 100%;
   font-family: var(--main-font);
+  color: var(--color-grey-second);
 }
 
-.content {
+.container {
   margin-bottom: 5rem;
   gap: 1rem;
 }
@@ -42,13 +29,21 @@
   object-fit: contain;
 }
 
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
 .heading {
   font-size: 32px;
   font-weight: 700;
+  color: var(--color-grey-second);
 }
 
 .subHeading {
-  font-size: 28px;
+  font-size: 24px;
 }
 .email {
   font-size: 16px;
@@ -59,7 +54,16 @@
 
 .email,
 .phone {
+  color: var(--color-grey-second);
+  display: inline-block;
+  transform: scale(1);
+  transition: color 1s ease, transform 250ms ease;
+}
+
+.email:hover,
+.phone:hover {
   color: var(--color-black);
+  transform: scale(1.1);
 }
 
 @media screen and (min-width: 768px) {
@@ -74,7 +78,7 @@
   }
 
   .subHeading {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .email,
@@ -86,24 +90,24 @@
 @media screen and (min-width: 1024px) {
   .headerImage {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
   }
-  .container {
+  .section {
     gap: 0.5rem;
   }
 
   .heading {
-    font-size: 64px;
+    font-size: 52px;
   }
 
   .subHeading {
-    font-size: 48px;
+    font-size: 38px;
     margin-bottom: 1rem;
   }
 
   .email,
   .phone {
-    font-size: 38px;
+    font-size: 36px;
   }
 }

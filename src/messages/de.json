@@ -47,5 +47,60 @@
       "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
       "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
     ]
+  },
+  "impressum": {
+    "practice": {
+      "label": "Praxisname",
+      "description": "Ursprungskraft – Ergotherapie Praxis"
+    },
+    "operator": {
+      "label": "Betreiberin / Verantwortlich für den Inhalt",
+      "description": "Solmaz Aalai"
+    },
+    "address": {
+      "label": "Anschrift",
+      "description": {
+        "street": "[Straße und Hausnummer]",
+        "zipCity": "[PLZ, Ort]",
+        "country": "Deutschland"
+      }
+    },
+    "contact": {
+      "label": "Kontakt",
+      "description": {
+        "phone": "[+49 …]",
+        "email": "[kontakt@domain.de]"
+      }
+    },
+    "professionalTitle": {
+      "label": "Berufsbezeichnung",
+      "description": "Ergotherapeutin (verliehen in der Bundesrepublik Deutschland)"
+    },
+    "professionalRegulations": {
+      "label": "Berufsrechtliche Regelungen",
+      "description": "Die Tätigkeit als Ergotherapeutin unterliegt den geltenden berufsrechtlichen Regelungen der Bundesrepublik Deutschland."
+    },
+    "supervisoryAuthority": {
+      "label": "Zuständige Aufsichtsbehörde",
+      "description": {
+        "authority": "[Name der zuständigen Behörde, z. B. Gesundheitsamt]",
+        "city": "[Ort]"
+      }
+    },
+    "vatId": {
+      "label": "Umsatzsteuer-ID",
+      "description": "Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: [nur falls vorhanden]"
+    },
+    "contentResponsibility": {
+      "label": "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
+      "description": {
+        "name": "Solmaz Aalai",
+        "address": "[Anschrift wie oben]"
+      }
+    },
+    "disclaimer": {
+      "label": "Haftungsausschluss",
+      "description": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich."
+    }
   }
 }
