@@ -13,7 +13,7 @@ export default function ComingSoon() {
         <div className={styles.textContainer}>
           <h1 className={styles.heading}>{t("header")}</h1>
           <p className={styles.subHeading}>{t("tag")}</p>
-          <p>
+          {/* <p>
             <a
               href="mailto:kontakt@ursprungskraftpraxis-erlangen.de"
               className={styles.email}
@@ -25,7 +25,7 @@ export default function ComingSoon() {
             <a href="tel:+4915205555555" className={styles.phone}>
               01520-5555-555
             </a>
-          </p>
+          </p> */}
         </div>
       </div>
     </section>
